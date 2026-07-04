@@ -1,0 +1,35 @@
+# 大文件（超过 GitHub 25MB 限制，通过 Release 分发）
+人脸检测.exe
+face_yolov8n.pt
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 虚拟环境
+venv/
+env/
+ENV/
+.venv/
+
+# PyInstaller 打包临时文件
+build/
+dist/
+*.spec
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 日志
+*.log
