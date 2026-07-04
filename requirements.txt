@@ -1,0 +1,7 @@
+# YOLO 轻量化实时人脸检测 —— 依赖列表
+# 安装命令（国内推荐使用清华镜像）：
+#   pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+ultralytics>=8.1.0
+opencv-python>=4.8.0
+pillow>=9.5.0
